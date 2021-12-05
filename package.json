@@ -1,0 +1,19 @@
+{
+  "name": "022_cxx_to_node_abi",
+  "version": "1.0.0",
+  "description": "**Date:** 04/12/2021   **Author:** stefano.gagliardi@sitisrl.it   **Reference:** [Medium article](https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-addon-api": "*",
+    "node-gyp": "^8.4.1"
+  }
+}
