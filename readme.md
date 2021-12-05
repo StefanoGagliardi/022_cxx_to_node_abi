@@ -17,6 +17,8 @@ There are two main reason to want this:
    For create shippable DEMO is requried a "copy protection policty" like c++ compiled code in Machine Language.
    NB: obviously ABI work only with **NodeJS** not with javascript in browser.
 
+![Code Overview](https://github.com/StefanoGagliardi/022_cxx_to_node_abi/blob/main/doc/cxx_dump.PNG)
+
 ## Proof of work
 
 How do they really work behind the scene? To understand this, we need to look at the Node.js architecture
